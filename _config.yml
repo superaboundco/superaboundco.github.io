@@ -25,6 +25,9 @@ description: "Superabound"
   # path: assets\img\clients\creative-market.jpg
   # height: 60 #height in px, defaults to 52px
 
+# exclude: [portfolio_grid.html, timeline.html, team.html, clients.html]
+# exclude: [_includes/portfolio_grid.html, _includes/timeline.html, _includes/team.html, _includes/clients.html]
+
 locale: "en-US" # See available languages in _data/sitetext.yml
 
 analytics:

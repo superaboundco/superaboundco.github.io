@@ -1,6 +1,6 @@
 // Styling for the masthead
 header.masthead {
-  text-align: center;
+  text-align: left;
   color: white;
   background-image: url("#{$header-image}");
   background-repeat: no-repeat;
@@ -29,19 +29,21 @@ header.masthead {
 @media (min-width: 768px) {
   header.masthead {
     .intro-text {
-      padding-top: 300px;
-      padding-bottom: 200px;
+      padding-top: 320px;
+      padding-bottom: 220px;
       .intro-lead-in {
-        font-size: 40px;
+        font-size: 22px;
         font-style: italic;
         line-height: 40px;
-        margin-bottom: 25px;
+        margin-bottom: -20px;
         @include serif-font;
       }
       .intro-heading {
-        font-size: 75px;
-        font-weight: 700;
-        line-height: 75px;
+        text-transform: none !important;
+        // white-space-collapse: collapse;
+        font-size: 70px;
+        font-weight: 600;
+        line-height: 70px;
         margin-bottom: 50px;
         @include heading-font;
       }
