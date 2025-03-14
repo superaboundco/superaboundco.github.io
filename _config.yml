@@ -25,9 +25,6 @@ description: "Superabound"
   # path: assets\img\clients\creative-market.jpg
   # height: 60 #height in px, defaults to 52px
 
-# exclude: [portfolio_grid.html, timeline.html, team.html, clients.html]
-# exclude: [_includes/portfolio_grid.html, _includes/timeline.html, _includes/team.html, _includes/clients.html]
-
 locale: "en-US" # See available languages in _data/sitetext.yml
 
 analytics:
@@ -41,3 +38,6 @@ markdown: kramdown
 # Uncomment following line to use Formspree form ID based URL instead of email based URL
 # Details: https://help.formspree.io/hc/en-us/articles/360017735154-How-to-prevent-spam
 # formspree_form_path: "f/a_form_id"
+
+# Web3form
+web3form_key: "dc91da12-f20f-42dc-b7f7-26ffd0c1597e"
