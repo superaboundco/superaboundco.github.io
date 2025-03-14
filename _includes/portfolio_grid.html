@@ -1,6 +1,7 @@
 <!-- Portfolio Grid -->
+{% if portfolio.enable %}
 {% if site.locale and site.locale != "" and site.locale != nil %}
-<section class="bg-light page-section" id="{{ site.data.sitetext.portfolio.section | default: "portfolio" }}">
+<section class="section portfolio page-section" id="{{ site.data.sitetext.portfolio.section | default: "portfolio" }}">
   <div class="container">
     <div class="row">
       <div class="col-lg-12 text-center">
@@ -29,7 +30,7 @@
   </div>
 </section>
 {% else %}
-<section class="bg-light page-section" id="{{ site.data.sitetext.portfolio.section | default: "portfolio" }}">
+<section class="section portfolio bg-light page-section" id="{{ site.data.sitetext.portfolio.section | default: "portfolio" }}">
   <div class="container">
     <div class="row">
       <div class="col-lg-12 text-center">
@@ -59,3 +60,4 @@
 </section>
 {% endif %}
 {% include modals.html %}
+{% endif %}

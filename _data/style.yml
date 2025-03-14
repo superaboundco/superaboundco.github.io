@@ -5,7 +5,7 @@
 
 #Image Customization
 header-image: "../img/header-2020March15-NBP-sunrise-HR-lowres.jpg"
-contact-image: "../img/header-mountains.jpg"
+contact-image: "../img/selects/header-mountains-lowres.jpg"
 #Font Awesome icon for portfolio grid when an item is hovered over
 # portfolio-icon: fas fa-expand-arrows-alt fa-3x #default: fas fa-plus fa-3x
 

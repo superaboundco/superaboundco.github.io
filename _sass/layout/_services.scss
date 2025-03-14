@@ -1,5 +1,10 @@
 // Styling for the services section
-.service-heading {
-  margin: 15px 0;
-  text-transform: none;
+section#services {
+  background-color: lighten($color: #3b719f, $amount: 55);
+  // background-color: lighten($color: , $amount: 18);
+  // background-color: darken($primary, 10%);
+  .service-heading {
+    margin: 15px 0;
+    text-transform: none;
+  }
 }
