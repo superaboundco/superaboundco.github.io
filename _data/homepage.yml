@@ -1,0 +1,164 @@
+################## Hero Area #######################
+hero_area:
+  title : "Gain Command Over Your Data, Stay Informed, Be Inspired"
+  subtitle: "Featured Content"
+  # image : "/assets/images/bg/header-2020March15-NBP-sunrise-HR-lowres.jpg"
+  # content : 
+  button:
+    enable : true
+    label : "Learn More"
+    link : "/about"
+
+###################### Services #####################
+services:
+  enable : true
+  bg_image : "/assets/images/bg/feature-bg.png"
+  item:
+  - name : "Brand Design"
+    icon : "ti-ruler-pencil"
+    content : "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore et dolore magna."
+    
+  - name : "Seo & Marketing"
+    icon : "ti-announcement"
+    content : "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore et dolore magna."
+    
+  - name : "Creative Design"
+    icon : "ti-palette"
+    content : "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore et dolore magna."
+
+################## About ###########################
+about:
+  enable : true
+  subtitle : "About Us"
+  title : "Driven by Outcomes, <br>Not Outputs"
+  video_thumb : "/assets/images/about/about.jpg"
+  # video_url : "https://www.youtube.com/watch?v=jrkvirglgaQ"
+  content : "Superabound is a boutique consulting company that supports organizations and foundations through data. We elevate their overall impact, efficiency, and ROI with actionable insights and data-driven decision making. Through collaboration, we help realize their missions and goals, thereby allowing them to better serve their communities. We also assist with strategic planning so that leaders can better understand their needs, prioritize, and steer their ships that maximize their outcomes in the long run."
+
+  button:
+    enable : true
+    label : "Read More"
+    link : "/about"
+
+###################### Portfolio #########################
+portfolio:
+  enable: false
+
+###################### Blog #############################
+latest-blog:
+  enable: false
+
+###################### Funfacts #########################
+funfacts:
+  enable : false
+  bg_image : "/assets/images/bg/cta-bg.png"
+  item:
+  - name : "work completed"
+    icon : "ti-briefcase"
+    value : "370"
+    
+  - name : "new projects"
+    icon : "ti-paint-bucket"
+    value : "450"
+    
+  - name : "Happy customers"
+    icon : "ti-heart"
+    value : "5000"
+    
+  - name : "awards win"
+    icon : "ti-cup"
+    value : "37"
+
+###################### Skill #############################
+skill:
+  enable : true
+  subtitle : "our skill"
+  title : "We are Design & Development Team."
+  image : "/assets/images/about/skill.jpg"
+  item:
+  - name : "Branding"
+    percentage : "85%"
+    
+  - name : "Consulting"
+    percentage : "90%"
+    
+  - name : "Business"
+    percentage : "75%"
+    
+  - name : "Promotion"
+    percentage : "95%"
+
+
+######################### Testimonial ####################
+testimonial:
+  enable : false
+  subtitle : "testimonials"
+  title : "Our Clients Say"
+  item:
+  - name : "Liam Hughes"
+    designation : "Manager"
+    image : "/assets/images/team/test-1.jpg"
+    content : "Lorem ipsum dolor amet constur adipisicing elit sed eiusmtempor incid dolore magna aliqu. enim minim	veniam."
+    
+  - name : "Liam Hughes"
+    designation : "Manager"
+    image : "/assets/images/team/test-2.jpg"
+    content : "Lorem ipsum dolor amet constur adipisicing elit sed eiusmtempor incid dolore magna aliqu. enim minim	veniam."
+    
+  - name : "Liam Hughes"
+    designation : "Manager"
+    image : "/assets/images/team/test-3.jpg"
+    content : "Lorem ipsum dolor amet constur adipisicing elit sed eiusmtempor incid dolore magna aliqu. enim minim	veniam."
+    
+  - name : "Liam Hughes"
+    designation : "Manager"
+    image : "/assets/images/team/test-1.jpg"
+    content : "Lorem ipsum dolor amet constur adipisicing elit sed eiusmtempor incid dolore magna aliqu. enim minim	veniam."
+    
+  - name : "Liam Hughes"
+    designation : "Manager"
+    image : "/assets/images/team/test-2.jpg"
+    content : "Lorem ipsum dolor amet constur adipisicing elit sed eiusmtempor incid dolore magna aliqu. enim minim	veniam."
+    
+  - name : "Liam Hughes"
+    designation : "Manager"
+    image : "/assets/images/team/test-3.jpg"
+    content : "Lorem ipsum dolor amet constur adipisicing elit sed eiusmtempor incid dolore magna aliqu. enim minim	veniam."
+
+
+###################### Clients ######################
+clients:
+  enable : false
+  logos:
+    - "/assets/images/clients/client-1.png"
+    - "/assets/images/clients/client-2.png"
+    - "/assets/images/clients/client-3.png"
+    - "/assets/images/clients/client-4.png"
+    - "/assets/images/clients/client-5.png"
+    - "/assets/images/clients/client-1.png"
+    - "/assets/images/clients/client-2.png"
+    - "/assets/images/clients/client-3.png"
+    - "/assets/images/clients/client-4.png"
+    - "/assets/images/clients/client-5.png"
+    
+
+###################### Team ######################
+team:
+  enable : false
+  item:
+  - name : "Liam Hughes"
+    designation : "Manager"
+    image : "/assets/images/team/team-1.jpg"
+    
+  - name : "Liam Hughes"
+    designation : "Manager"
+    image : "/assets/images/team/team-2.jpg"
+    
+  - name : "Liam Hughes"
+    designation : "Manager"
+    image : "/assets/images/team/team-3.jpg"
+    
+  - name : "Liam Hughes"
+    designation : "Manager"
+    image : "/assets/images/team/team-4.jpg"
+
