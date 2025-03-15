@@ -21,22 +21,22 @@ en: &DEFAULT_EN
   about:
     title: "About Us"
     text: "Driven by Outcomes, Not Outputs"
-    body: "Superabound is a boutique consulting company that supports organizations and foundations through data. We elevate their overall impact, efficiency, and ROI with actionable insights and data-driven decision making. Through collaboration, we help realize their missions and goals, thereby allowing them to better serve their communities. We also assist with strategic planning so that leaders can better understand their needs, prioritize, and steer their ships that maximize their outcomes in the long run."
+    body: "Superabound is a boutique consulting company that supports organizations and funders through data. We elevate their overall impact, efficiency, and ROI with actionable insights and data-driven decision making. Through collaboration, we help realize their missions and goals, thereby allowing them to better serve their communities. We also assist with strategic planning so that leaders can better understand their needs, prioritize, and steer their ships that maximize their outcomes in the long run."
     section: about
 
   services:
     title: "Services"
-    text: "Lorem ipsum"
+    text: "Capabilities that Empower"
     section: services
     list:
       - title: "Technical Assistance"
-        desc: "."
-        icon: fas fa-handshake                  #-- find more at https://fontawesome.com/icons
+        desc: "We value our clients' organizational cultures and are driven by their missions. We partner with our clients to identify specific problems or needs, provide targeted support, and ensure we raise their impact and outcomes -- thereby attracting more resources and talent, and achieving sustainability."
+        icon: fas fa-handshake
       - title: "Research & Evaluation"
-        desc: "."
-        icon: fas fa-chart-bar                        #diagram-project
+        desc: "We help clients better understand how and in what ways they are making a difference, so that they can act with intentionality. In collaboration with our clients, we identify what success means to them, develop and execute plans to measure and evaluate success, and translate complex findings and lessons learned, so that our clients continuously improve performance and realize their missions and goals more efficiently and effectively."
+        icon: fas fa-chart-bar
       - title: "Data Science & Technology"
-        desc: "."
+        desc: "Taking ownership in organizational data requires work, but it is worth it. We assist our clients develop data policies to gain and maintain trust, modernize their data ecosytems to improve data access and reliability, and create tools that lead to data-inspired insights and guide decision making."
         icon: fas fa-chart-line
       # - title: "Development"
       #   desc: "."
@@ -44,6 +44,8 @@ en: &DEFAULT_EN
       # - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
       #   desc: "Your description here, full **Markdown** support"
       #   icon: fab fa-markdown
+      #
+      # icons: https://fontawesome.com/icons 
 
   portfolio:
    enable: false
