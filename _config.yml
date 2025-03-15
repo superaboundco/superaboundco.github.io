@@ -41,4 +41,4 @@ markdown: kramdown
 # formspree_form_path: "f/a_form_id"
 
 # Web3form
-web3form_key: dc91da12-f20f-42dc-b7f7-26ffd0c1597e
+web3form_key: "dc91da12-f20f-42dc-b7f7-26ffd0c1597e"
