@@ -14,14 +14,16 @@
 # theme: jekyll-agency
 remote_theme: raviriley/agency-jekyll-theme
 
-url    : "" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "" # the subpath of your site, e.g. /blog
-
 title      : Superabound
 name       : Home
 email      : superaboundco@gmail.com #this is also the email contact forms will go to
-description: "Superabound"
-# author     : Your Name
+tagline    : "Superabound is a data consulting company that helps non-profit organizations realize their missions and goals."
+description: "Superabound is a boutique data consulting company that supports organizations (and funders) maximize their impact and outcomes using data."
+
+author     : Superabound
+url        : "https://simplysuperabound.com/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
   # height: 60 #height in px, defaults to 52px
@@ -42,3 +44,7 @@ markdown: kramdown
 
 # Web3form
 web3form_key: "dc91da12-f20f-42dc-b7f7-26ffd0c1597e"
+
+# plugins
+plugins:
+  - jekyll-seo-tag

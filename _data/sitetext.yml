@@ -21,7 +21,7 @@ en: &DEFAULT_EN
   about:
     title: "About Us"
     text: "Driven by Outcomes, Not Outputs"
-    body: "Superabound is a boutique consulting company that supports organizations and funders through data. We elevate their overall impact, efficiency, and ROI with actionable insights and data-driven decision making. Through collaboration, we help realize their missions and goals, thereby allowing them to better serve their communities. We also assist with strategic planning so that leaders can better understand their needs, prioritize, and steer their ships that maximize their outcomes in the long run."
+    body: "Superabound is a boutique mission-driven consulting company that supports non-profit organizations (and funders) using data. We elevate their overall impact, efficiency, and ROI with actionable insights and data-driven decision making. Through collaboration, we help realize their missions and goals, thereby allowing them to better serve their communities. We also assist with strategic planning so that leaders can better understand their needs, prioritize, and steer their ships that maximize their outcomes in the long run."
     section: about
 
   services:
