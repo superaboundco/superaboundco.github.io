@@ -30,7 +30,7 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Technical Assistance"
-        desc: "We value our clients' organizational cultures and are driven by their missions. We partner with our clients to identify specific problems or needs, provide targeted support, and ensure we raise their impact and outcomes -- thereby attracting more resources and talent, and achieving sustainability."
+        desc: "We greatly value and respect our clients' organizational cultures and their missions. We partner with our clients to identify specific problems or needs, provide targeted support, and ensure we raise their impact and outcomes -- thereby attracting more resources and talent, and achieving sustainability."
         icon: fas fa-handshake
       - title: "Research & Evaluation"
         desc: "We help clients better understand how and in what ways they are making a difference, so that they can act with intentionality. In collaboration with our clients, we identify what success means to them, develop and execute plans to measure and evaluate success, and translate complex findings and lessons learned, so that our clients continuously improve performance and realize their missions and goals more efficiently and effectively."
