@@ -33,7 +33,7 @@ en: &DEFAULT_EN
         desc: "We greatly value and respect our clients' organizational cultures and their missions. We partner with our clients to identify specific problems or needs, provide targeted support, and ensure we raise their impact and outcomes -- thereby attracting more resources and talent, and achieving sustainability."
         icon: fas fa-handshake
       - title: "Research & Evaluation"
-        desc: "We help clients better understand how and in what ways they are making a difference, so that they can act with intentionality. In collaboration with our clients, we identify what success means to them, develop and execute plans to measure and evaluate success, and translate complex findings and lessons learned, so that our clients continuously improve performance and realize their missions and goals more efficiently and effectively."
+        desc: "We help clients better understand how and in what ways they are making (and not making) a difference, so that they can act with intentionality. In collaboration with our clients, we identify what success means to them, develop and execute plans to measure and evaluate success, and translate complex findings and lessons learned, so that our clients continuously improve performance and realize their missions and goals more efficiently and effectively."
         icon: fas fa-chart-bar
       - title: "Data Science & Technology"
         desc: "Taking ownership in organizational data requires work, but it is worth it. We assist our clients develop data policies to gain and maintain trust, modernize their data ecosytems to improve data access and reliability, and create tools that lead to data-inspired insights and guide decision making."
