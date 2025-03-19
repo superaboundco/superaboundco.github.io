@@ -15,13 +15,14 @@ en: &DEFAULT_EN
   header:
     title: Feature Content
     text: "Gain Command Over Your Data,<br>Stay Informed, Be Inspired"
+    # text: "Putting Data to Work"
     button: Learn More
     buttonlink: "#about"
 
   about:
     title: "About Us"
     text: "Driven by Outcomes, Not Outputs"
-    body: "Superabound is a boutique consulting company that supports non-profit organizations (and funders) using data. We elevate their overall impact with evidence-based research, actionable insights, and data-driven decision making. Through collaboration, we help realize their missions and goals, thereby allowing them to better serve their communities. We also assist with strategic planning so that leaders can better understand their needs, prioritize, and steer their ships that maximize their outcomes."
+    body: "Superabound is a boutique data consulting company based in Chicago, IL that supports non-profit organizations (and funders) using data. We elevate their overall impact with evidence-based research, actionable insights, and data-driven decision making. Through collaboration, we help realize their missions and goals, thereby allowing them to better serve their communities. We also assist with strategic planning so that leaders can better understand their needs, prioritize, and steer their ships that maximize their outcomes."
     section: about
 
   services:
